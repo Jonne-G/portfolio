@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "portfolio",
+    "description": "",
+    "home_page_url": "https://jonne-g.github.io/portfolio",
+    "feed_url": "https://jonne-g.github.io/portfolio/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jonne Geven"
+    },
+    "items": [
+        {
+            "id": "https://jonne-g.github.io/portfolio/hello-world.html",
+            "url": "https://jonne-g.github.io/portfolio/hello-world.html",
+            "title": "Hello World",
+            "summary": "A Hello world post",
+            "content_html": "<p>A Hello world post</p>",
+            "author": {
+                "name": "Jonne Geven"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-04-12T20:24:20+03:00",
+            "date_modified": "2022-04-12T20:24:20+03:00"
+        }
+    ]
+}

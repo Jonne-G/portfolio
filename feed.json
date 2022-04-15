@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Jonne Geven",
     "description": "",
-    "home_page_url": "https://jonne-g.github.io/portfolio",
-    "feed_url": "https://jonne-g.github.io/portfolio/feed.json",
+    "home_page_url": "https://jonne-g.github.io/portfolio/index.html",
+    "feed_url": "https://jonne-g.github.io/portfolio/index.html/feed.json",
     "user_comment": "",
     "author": {
         "name": "Jonne Geven"
     },
     "items": [
         {
-            "id": "https://jonne-g.github.io/portfolio/houdini-pipeline/index.html",
-            "url": "https://jonne-g.github.io/portfolio/houdini-pipeline/index.html",
+            "id": "https://jonne-g.github.io/portfolio/index.html/houdini-pipeline/index.html",
+            "url": "https://jonne-g.github.io/portfolio/index.html/houdini-pipeline/index.html",
             "title": "Houdini Pipeline",
             "summary": "&lt; SOME DEMONSTRATION OF THE HOUDINI PIPE &gt; Build almost from scratch, the Remedy Houdini-environment is the main way of interacting with Houdini at Remedy. As its sole developer, my task was to create an environment that would allow for management of HDAs (Houdini Digital&hellip;",
             "content_html": "\n    <h2 id=\"lt-some-demonstration-of-the-houdini-pipe-gt\">\n      &lt; SOME DEMONSTRATION OF THE HOUDINI PIPE &gt;\n    </h2>\n\n  <p>\n    Build almost from scratch, the Remedy Houdini-environment is the main way of interacting with Houdini at Remedy.<br>As its sole developer, my task was to create an environment that would allow for management of HDAs (Houdini Digital Assets) on multiple projects, as well as making said HDAs easy to create and update.\n  </p>\n\n  <p>\n    Over the various iterations the \"backend\" went through, the current version has three main components:\n  </p>\n\n    <h6 id=\"1-launching-houdini\">\n      1. Launching Houdini\n    </h6>\n\n  <p>\n    When the user clicks one of the shortcuts (Houdini core, FX, and Apprentice) a setup script is triggered with a project specific configuration file.<br>Said configuration file holds information about what python-modules to load; which version of Houdini to use; miscellaneous environment variables; and which HDAs to import. This startup script essentially sets up the environment.\n  </p>\n\n    <h6 id=\"2-importing-hdas\">\n      2. Importing HDAs\n    </h6>\n\n  <p>\n    The project HDAs are imported using a custom importation process.<br>A project can also define which HDAs are hidden or locked.<br>Here \"locking\" a HDA refers to limiting the version of an asset during loading.<br>This is feature is intended to be used on projects locking their codebase during the final shipping phase of the project. It is also the reason the Houdini-native package system wasn't used, it didn't support locking HDAs on a specific version.\n  </p>\n\n    <h6 id=\"3-hda-management\">\n      3. HDA Management\n    </h6>\n\n  <p>\n    The final component of the Remedy Houdini-environment isn't specifically a launch-specific process, rather its a set of tools for managing HDAs.<br>Its main purpose is to reduce/remove human error and give the users more time to do their work.<br>To achieve this, the management system automates HDA creation, versioning, and various perforce commands (shelve, submit, and in special cases, checkout).<br>The ease-of-use features are described in further detail below.\n  </p>",
@@ -24,8 +24,8 @@
             "date_modified": "2022-04-15T21:41:03+03:00"
         },
         {
-            "id": "https://jonne-g.github.io/portfolio/roof-generator/index.html",
-            "url": "https://jonne-g.github.io/portfolio/roof-generator/index.html",
+            "id": "https://jonne-g.github.io/portfolio/index.html/roof-generator/index.html",
+            "url": "https://jonne-g.github.io/portfolio/index.html/roof-generator/index.html",
             "title": "Roof Generator",
             "summary": "&lt; INSERT COOL VIDEO &gt; Near the end of development on CrossfireX: Operation Spectre, it became clear it wouldn't be possible for the modelling department to populate the entire level with roofs. There was simply too much to do. To address this issue, I was&hellip;",
             "content_html": "\n    <h2 id=\"lt-insert-cool-video-gt\">\n      &lt; INSERT COOL VIDEO &gt;\n    </h2>\n\n  <p>\n    Near the end of development on CrossfireX: Operation Spectre, it became clear it wouldn't be possible for the modelling department to populate the entire level with roofs. There was simply too much to do.\n  </p>\n\n  <p>\n    To address this issue, I was tasked with making a procedural solution that should integrate with Maya and make said roofs much easier to make.<br>Though making the tool work properly with Houdini engine in Maya was a real challenge, the final result helped speed up work on the level freeing up time for the artists to work on other parts of the project.\n  </p>\n\n  <p>\n    This tool really showed me how much trouble integration can bring.<br>Out of all the time spent almost 40% was spend on making Houdini engine and Maya play together nicely. That said, it was also a great learning experience on what kind of problems you can run into with these kinds of tools, and what to expect ahead of time.<br>\n  </p>",
@@ -38,8 +38,8 @@
             "date_modified": "2022-04-15T21:19:44+03:00"
         },
         {
-            "id": "https://jonne-g.github.io/portfolio/material-browser/index.html",
-            "url": "https://jonne-g.github.io/portfolio/material-browser/index.html",
+            "id": "https://jonne-g.github.io/portfolio/index.html/material-browser/index.html",
+            "url": "https://jonne-g.github.io/portfolio/index.html/material-browser/index.html",
             "title": "Material Browser",
             "summary": "&lt; INSERT VIDEO HERE &gt; &nbsp;The material-browser is an interface between the material-database on disk, and the user’s scene. Its main adoption has been in maya, but it is made to be easily adapted to other applications supporting Qt (described in the code-overview below). Before&hellip;",
             "content_html": "\n    <h2 id=\"lt-insert-video-here-gt\">\n      &lt; INSERT VIDEO HERE &gt;\n    </h2>\n\n  <p>\n    &nbsp;The material-browser is an interface between the material-database on disk, and the user’s  scene. Its main adoption has been in maya, but it is made to be easily adapted to other applications supporting Qt (described in the code-overview below).\n  </p>\n\n  <p>\n    Before the interface, the users had no easy way of importing materials into their scene without using an external application. Initially the material browser was only intended to import materials, but throughout development it also became the defacto tool for managing materials within the scene, and on objects (the scene- and selection tab).\n  </p>\n\n  <p>\n    Making this interface was my first introduction to Qt and UI programming, and over the various iterations the browser went through, I learned a lot about the various quirks and features of Qt, and how to maintain large python applications.&nbsp;<br>\n  </p>",
@@ -52,8 +52,8 @@
             "date_modified": "2022-04-13T21:10:56+03:00"
         },
         {
-            "id": "https://jonne-g.github.io/portfolio/contact/index.html",
-            "url": "https://jonne-g.github.io/portfolio/contact/index.html",
+            "id": "https://jonne-g.github.io/portfolio/index.html/contact/index.html",
+            "url": "https://jonne-g.github.io/portfolio/index.html/contact/index.html",
             "title": "Contact",
             "summary": "Contacteroni",
             "content_html": "\n  <p>\n    Contacteroni\n  </p>\n\n  <p>\n    \n  </p>",
@@ -66,8 +66,8 @@
             "date_modified": "2022-04-12T21:06:42+03:00"
         },
         {
-            "id": "https://jonne-g.github.io/portfolio/about-me/index.html",
-            "url": "https://jonne-g.github.io/portfolio/about-me/index.html",
+            "id": "https://jonne-g.github.io/portfolio/index.html/about-me/index.html",
+            "url": "https://jonne-g.github.io/portfolio/index.html/about-me/index.html",
             "title": "About Me",
             "summary": "About Meme",
             "content_html": "\n  <p>\n    About Meme\n  </p>",
@@ -80,10 +80,10 @@
             "date_modified": "2022-04-12T21:06:21+03:00"
         },
         {
-            "id": "https://jonne-g.github.io/portfolio/pipeline-2/index.html",
-            "url": "https://jonne-g.github.io/portfolio/pipeline-2/index.html",
+            "id": "https://jonne-g.github.io/portfolio/index.html/pipeline-2/index.html",
+            "url": "https://jonne-g.github.io/portfolio/index.html/pipeline-2/index.html",
             "title": "Procedural",
-            "content_html": "\n    <figure class=\"post__image post__image--wide\">\n      <a href=\"https://jonne-g.github.io/portfolio/roof-generator/index.html\">\n        <img loading=\"lazy\" src=\"https://jonne-g.github.io/portfolio/media/posts/3/roof_generator_banner.png\" sizes=\"100vw\" srcset=\"https://jonne-g.github.io/portfolio/media/posts/3/responsive/roof_generator_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/3/responsive/roof_generator_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/3/responsive/roof_generator_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/3/responsive/roof_generator_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/3/responsive/roof_generator_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/3/responsive/roof_generator_banner-2xl.png 1600w\"  height=\"150\" width=\"1440\" alt=\"Roof Generator Link\" />\n      </a>\n      \n    </figure>",
+            "content_html": "\n    <figure class=\"post__image post__image--wide\">\n      <a href=\"https://jonne-g.github.io/portfolio/index.html/roof-generator/index.html\">\n        <img loading=\"lazy\" src=\"https://jonne-g.github.io/portfolio/index.html/media/posts/3/roof_generator_banner.png\" sizes=\"100vw\" srcset=\"https://jonne-g.github.io/portfolio/index.html/media/posts/3/responsive/roof_generator_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/index.html/media/posts/3/responsive/roof_generator_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/index.html/media/posts/3/responsive/roof_generator_banner-md.png 768w ,https://jonne-g.github.io/portfolio/index.html/media/posts/3/responsive/roof_generator_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/index.html/media/posts/3/responsive/roof_generator_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/index.html/media/posts/3/responsive/roof_generator_banner-2xl.png 1600w\"  height=\"150\" width=\"1440\" alt=\"Roof Generator Link\" />\n      </a>\n      \n    </figure>",
             "author": {
                 "name": "Jonne Geven"
             },
@@ -93,10 +93,10 @@
             "date_modified": "2022-04-15T22:14:37+03:00"
         },
         {
-            "id": "https://jonne-g.github.io/portfolio/pipeline/index.html",
-            "url": "https://jonne-g.github.io/portfolio/pipeline/index.html",
+            "id": "https://jonne-g.github.io/portfolio/index.html/pipeline/index.html",
+            "url": "https://jonne-g.github.io/portfolio/index.html/pipeline/index.html",
             "title": "Pipeline",
-            "content_html": "\n    <figure class=\"post__image post__image--wide\">\n      <a href=\"https://jonne-g.github.io/portfolio/material-browser/index.html\">\n        <img loading=\"lazy\" src=\"https://jonne-g.github.io/portfolio/media/posts/2/material_browser_banner.png\" sizes=\"100vw\" srcset=\"https://jonne-g.github.io/portfolio/media/posts/2/responsive/material_browser_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/material_browser_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/material_browser_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/material_browser_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/material_browser_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/material_browser_banner-2xl.png 1600w\"  height=\"150\" width=\"1440\" alt=\"Material Browser\" />\n      </a>\n      \n    </figure>\n\n    <figure class=\"post__image post__image--wide\">\n      <a href=\"https://jonne-g.github.io/portfolio/houdini-pipeline/index.html\">\n        <img loading=\"lazy\" src=\"https://jonne-g.github.io/portfolio/media/posts/2/houdini_pipe_banner.png\" sizes=\"100vw\" srcset=\"https://jonne-g.github.io/portfolio/media/posts/2/responsive/houdini_pipe_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/houdini_pipe_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/houdini_pipe_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/houdini_pipe_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/houdini_pipe_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/houdini_pipe_banner-2xl.png 1600w\"  height=\"150\" width=\"1440\" alt=\"Houdini Pipeline\" />\n      </a>\n      \n    </figure>\n\n  <p>\n    \n  </p>",
+            "content_html": "\n    <figure class=\"post__image post__image--wide\">\n      <a href=\"https://jonne-g.github.io/portfolio/index.html/material-browser/index.html\">\n        <img loading=\"lazy\" src=\"https://jonne-g.github.io/portfolio/index.html/media/posts/2/material_browser_banner.png\" sizes=\"100vw\" srcset=\"https://jonne-g.github.io/portfolio/index.html/media/posts/2/responsive/material_browser_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/index.html/media/posts/2/responsive/material_browser_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/index.html/media/posts/2/responsive/material_browser_banner-md.png 768w ,https://jonne-g.github.io/portfolio/index.html/media/posts/2/responsive/material_browser_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/index.html/media/posts/2/responsive/material_browser_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/index.html/media/posts/2/responsive/material_browser_banner-2xl.png 1600w\"  height=\"150\" width=\"1440\" alt=\"Material Browser\" />\n      </a>\n      \n    </figure>\n\n    <figure class=\"post__image post__image--wide\">\n      <a href=\"https://jonne-g.github.io/portfolio/index.html/houdini-pipeline/index.html\">\n        <img loading=\"lazy\" src=\"https://jonne-g.github.io/portfolio/index.html/media/posts/2/houdini_pipe_banner.png\" sizes=\"100vw\" srcset=\"https://jonne-g.github.io/portfolio/index.html/media/posts/2/responsive/houdini_pipe_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/index.html/media/posts/2/responsive/houdini_pipe_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/index.html/media/posts/2/responsive/houdini_pipe_banner-md.png 768w ,https://jonne-g.github.io/portfolio/index.html/media/posts/2/responsive/houdini_pipe_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/index.html/media/posts/2/responsive/houdini_pipe_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/index.html/media/posts/2/responsive/houdini_pipe_banner-2xl.png 1600w\"  height=\"150\" width=\"1440\" alt=\"Houdini Pipeline\" />\n      </a>\n      \n    </figure>\n\n  <p>\n    \n  </p>",
             "author": {
                 "name": "Jonne Geven"
             },

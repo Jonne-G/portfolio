@@ -3,19 +3,59 @@
     <title>Jonne Geven</title>
     <link href="https://jonne-g.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://jonne-g.github.io/portfolio" />
-    <updated>2022-04-19T17:22:54+03:00</updated>
+    <updated>2022-04-20T17:20:15+03:00</updated>
     <author>
         <name>Jonne Geven</name>
     </author>
     <id>https://jonne-g.github.io/portfolio</id>
 
     <entry>
+        <title>Portfolio</title>
+        <author>
+            <name>Jonne Geven</name>
+        </author>
+        <link href="https://jonne-g.github.io/portfolio/portfolio/"/>
+        <id>https://jonne-g.github.io/portfolio/portfolio/</id>
+
+        <updated>2022-04-20T17:20:15+03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <a href="https://jonne-g.github.io/portfolio/roof-generator/">
+        <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/9/roof_generator_banner.png" sizes="100vw" srcset="https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-2xl.png 1600w"  height="150" width="1440" alt="" />
+      </a>
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <a href="https://jonne-g.github.io/portfolio/material-browser/">
+        <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/9/material_browser_banner.png" sizes="100vw" srcset="https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-2xl.png 1600w"  height="150" width="1440" alt="" />
+      </a>
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <a href="https://jonne-g.github.io/portfolio/houdini-pipeline/">
+        <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/9/houdini_pipe_banner.png" sizes="100vw" srcset="https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-2xl.png 1600w"  height="150" width="1440" alt="" />
+      </a>
+      
+    </figure>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Houdini Pipeline</title>
         <author>
             <name>Jonne Geven</name>
         </author>
-        <link href="https://jonne-g.github.io/portfolio/houdini-pipeline/index.html"/>
-        <id>https://jonne-g.github.io/portfolio/houdini-pipeline/index.html</id>
+        <link href="https://jonne-g.github.io/portfolio/houdini-pipeline/"/>
+        <id>https://jonne-g.github.io/portfolio/houdini-pipeline/</id>
 
         <updated>2022-04-15T21:41:03+03:00</updated>
             <summary>
@@ -69,32 +109,59 @@
         <author>
             <name>Jonne Geven</name>
         </author>
-        <link href="https://jonne-g.github.io/portfolio/roof-generator/index.html"/>
-        <id>https://jonne-g.github.io/portfolio/roof-generator/index.html</id>
+        <link href="https://jonne-g.github.io/portfolio/roof-generator/"/>
+        <id>https://jonne-g.github.io/portfolio/roof-generator/</id>
 
-        <updated>2022-04-15T21:19:44+03:00</updated>
+        <updated>2022-04-20T16:43:12+03:00</updated>
             <summary>
                 <![CDATA[
-                    &lt; INSERT COOL VIDEO &gt; Near the end of development on CrossfireX: Operation Spectre, it became clear it wouldn't be possible for the modelling department to populate the entire level with roofs. There was simply too much to do. To address this issue, I was&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-    <h2 id="lt-insert-cool-video-gt">
-      &lt; INSERT COOL VIDEO &gt;
-    </h2>
+                    
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/7/Resolve_UnKCqIgePf.png" sizes="100vw" srcset="https://jonne-g.github.io/portfolio/media/posts/7/responsive/Resolve_UnKCqIgePf-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/Resolve_UnKCqIgePf-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/Resolve_UnKCqIgePf-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/Resolve_UnKCqIgePf-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/Resolve_UnKCqIgePf-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/Resolve_UnKCqIgePf-2xl.png 1600w"  height="764" width="1358" alt="" />
+      
+    </figure>
 
   <p>
     Near the end of development on CrossfireX: Operation Spectre, it became clear it wouldn't be possible for the modelling department to populate the entire level with roofs. There was simply too much to do.
   </p>
 
   <p>
-    To address this issue, I was tasked with making a procedural solution that should integrate with Maya and make said roofs much easier to make.<br>Though making the tool work properly with Houdini engine in Maya was a real challenge, the final result helped speed up work on the level freeing up time for the artists to work on other parts of the project.
+    The brief was simple: Create a tool that can quickly make roof&nbsp; geometry and make it work inside Maya using Houdini Engine.<br>Since the roofs were only visible from afar or from below, it was possible to use relatively simple geometry and focus on making the system quick, and easy to use.<br>
   </p>
 
   <p>
-    This tool really showed me how much trouble integration can bring.<br>Out of all the time spent almost 40% was spend on making Houdini engine and Maya play together nicely. That said, it was also a great learning experience on what kind of problems you can run into with these kinds of tools, and what to expect ahead of time.<br>
+    Though making the tool work properly with Houdini engine in Maya was a real challenge, the final result helped speed up work on the level freeing up time for the artists to work on other parts of the project.<br>
+  </p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/7/Resolve_UnKCqIgePf.png" sizes="100vw" srcset="https://jonne-g.github.io/portfolio/media/posts/7/responsive/Resolve_UnKCqIgePf-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/Resolve_UnKCqIgePf-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/Resolve_UnKCqIgePf-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/Resolve_UnKCqIgePf-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/Resolve_UnKCqIgePf-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/Resolve_UnKCqIgePf-2xl.png 1600w"  height="764" width="1358" alt="" />
+      
+    </figure>
+
+  <p>
+    Near the end of development on CrossfireX: Operation Spectre, it became clear it wouldn't be possible for the modelling department to populate the entire level with roofs. There was simply too much to do.
+  </p>
+
+  <p>
+    The brief was simple: Create a tool that can quickly make roof&nbsp; geometry and make it work inside Maya using Houdini Engine.<br>Since the roofs were only visible from afar or from below, it was possible to use relatively simple geometry and focus on making the system quick, and easy to use.<br>
+  </p>
+
+  <p>
+    Though making the tool work properly with Houdini engine in Maya was a real challenge, the final result helped speed up work on the level freeing up time for the artists to work on other parts of the project.<br>
+  </p>
+
+
+    <h2 id="further-elaboration">
+      Further elaboration
+    </h2>
+
+  <p>
+    This section contains further explanation of the roof-gen.<br>It's separate to keep the general description as short as possible.<br>
   </p>
             ]]>
         </content>
@@ -104,8 +171,8 @@
         <author>
             <name>Jonne Geven</name>
         </author>
-        <link href="https://jonne-g.github.io/portfolio/material-browser/index.html"/>
-        <id>https://jonne-g.github.io/portfolio/material-browser/index.html</id>
+        <link href="https://jonne-g.github.io/portfolio/material-browser/"/>
+        <id>https://jonne-g.github.io/portfolio/material-browser/</id>
 
         <updated>2022-04-13T21:10:56+03:00</updated>
             <summary>
@@ -139,20 +206,24 @@
         <author>
             <name>Jonne Geven</name>
         </author>
-        <link href="https://jonne-g.github.io/portfolio/contact/index.html"/>
-        <id>https://jonne-g.github.io/portfolio/contact/index.html</id>
+        <link href="https://jonne-g.github.io/portfolio/contact/"/>
+        <id>https://jonne-g.github.io/portfolio/contact/</id>
 
-        <updated>2022-04-12T21:06:42+03:00</updated>
+        <updated>2022-04-20T17:09:18+03:00</updated>
             <summary>
                 <![CDATA[
-                    Contacteroni
+                    LinkedIn:&nbsp;www.linkedin.com/in/jonne-geven/ Email:&nbsp;jonnegeven@outlook.com
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    Contacteroni
+    <strong>LinkedIn:&nbsp;</strong><a href="https://www.linkedin.com/in/jonne-geven/">www.linkedin.com/in/jonne-geven/</a>
+  </p>
+
+  <p>
+    <b>Email:</b>&nbsp;jonnegeven@outlook.com
   </p>
 
   <p>
@@ -166,8 +237,8 @@
         <author>
             <name>Jonne Geven</name>
         </author>
-        <link href="https://jonne-g.github.io/portfolio/about-me/index.html"/>
-        <id>https://jonne-g.github.io/portfolio/about-me/index.html</id>
+        <link href="https://jonne-g.github.io/portfolio/about-me/"/>
+        <id>https://jonne-g.github.io/portfolio/about-me/</id>
 
         <updated>2022-04-12T21:06:21+03:00</updated>
             <summary>
@@ -189,8 +260,8 @@
         <author>
             <name>Jonne Geven</name>
         </author>
-        <link href="https://jonne-g.github.io/portfolio/procedural/index.html"/>
-        <id>https://jonne-g.github.io/portfolio/procedural/index.html</id>
+        <link href="https://jonne-g.github.io/portfolio/procedural/"/>
+        <id>https://jonne-g.github.io/portfolio/procedural/</id>
 
         <updated>2022-04-19T17:22:54+03:00</updated>
             <summary></summary>
@@ -198,7 +269,7 @@
             <![CDATA[
                 
     <figure class="post__image post__image--wide">
-      <a href="https://jonne-g.github.io/portfolio/roof-generator/index.html">
+      <a href="https://jonne-g.github.io/portfolio/roof-generator/">
         <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/3/roof_generator_banner.png" sizes="100vw" srcset="https://jonne-g.github.io/portfolio/media/posts/3/responsive/roof_generator_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/3/responsive/roof_generator_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/3/responsive/roof_generator_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/3/responsive/roof_generator_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/3/responsive/roof_generator_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/3/responsive/roof_generator_banner-2xl.png 1600w"  height="150" width="1440" alt="Roof Generator Link" />
       </a>
       
@@ -211,8 +282,8 @@
         <author>
             <name>Jonne Geven</name>
         </author>
-        <link href="https://jonne-g.github.io/portfolio/pipeline/index.html"/>
-        <id>https://jonne-g.github.io/portfolio/pipeline/index.html</id>
+        <link href="https://jonne-g.github.io/portfolio/pipeline/"/>
+        <id>https://jonne-g.github.io/portfolio/pipeline/</id>
 
         <updated>2022-04-15T22:14:50+03:00</updated>
             <summary></summary>
@@ -220,14 +291,14 @@
             <![CDATA[
                 
     <figure class="post__image post__image--wide">
-      <a href="https://jonne-g.github.io/portfolio/material-browser/index.html">
+      <a href="https://jonne-g.github.io/portfolio/material-browser/">
         <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/2/material_browser_banner.png" sizes="100vw" srcset="https://jonne-g.github.io/portfolio/media/posts/2/responsive/material_browser_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/material_browser_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/material_browser_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/material_browser_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/material_browser_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/material_browser_banner-2xl.png 1600w"  height="150" width="1440" alt="Material Browser" />
       </a>
       
     </figure>
 
     <figure class="post__image post__image--wide">
-      <a href="https://jonne-g.github.io/portfolio/houdini-pipeline/index.html">
+      <a href="https://jonne-g.github.io/portfolio/houdini-pipeline/">
         <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/2/houdini_pipe_banner.png" sizes="100vw" srcset="https://jonne-g.github.io/portfolio/media/posts/2/responsive/houdini_pipe_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/houdini_pipe_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/houdini_pipe_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/houdini_pipe_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/houdini_pipe_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/houdini_pipe_banner-2xl.png 1600w"  height="150" width="1440" alt="Houdini Pipeline" />
       </a>
       

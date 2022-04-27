@@ -13,14 +13,14 @@
             "id": "https://jonne-g.github.io/portfolio/portfolio/",
             "url": "https://jonne-g.github.io/portfolio/portfolio/",
             "title": "Portfolio",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <a href=\"https://jonne-g.github.io/portfolio/roof-generator/\">\n        <img decoding=\"async\" loading=\"lazy\" src=\"https://jonne-g.github.io/portfolio/media/posts/9/roof_generator_banner.png\" sizes=\"100vw\" srcset=\"https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-2xl.png 1600w\"  height=\"150\" width=\"1440\" alt=\"\" />\n      </a>\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <a href=\"https://jonne-g.github.io/portfolio/material-browser/\">\n        <img decoding=\"async\" loading=\"lazy\" src=\"https://jonne-g.github.io/portfolio/media/posts/9/material_browser_banner.png\" sizes=\"100vw\" srcset=\"https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-2xl.png 1600w\"  height=\"150\" width=\"1440\" alt=\"\" />\n      </a>\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <a href=\"https://jonne-g.github.io/portfolio/houdini-pipeline/\">\n        <img decoding=\"async\" loading=\"lazy\" src=\"https://jonne-g.github.io/portfolio/media/posts/9/houdini_pipe_banner.png\" sizes=\"100vw\" srcset=\"https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-2xl.png 1600w\"  height=\"150\" width=\"1440\" alt=\"\" />\n      </a>\n      \n    </figure>\n\n  <p>\n    \n  </p>",
+            "content_html": "\n    <figure class=\"post__image post__image--wide\">\n      <a href=\"https://jonne-g.github.io/portfolio/roof-generator/\">\n        <img decoding=\"async\" loading=\"lazy\" src=\"https://jonne-g.github.io/portfolio/media/posts/9/roof_generator_banner.png\" sizes=\"100vw\" srcset=\"https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-2xl.png 1600w\"  height=\"150\" width=\"1440\" alt=\"\" />\n      </a>\n      \n    </figure>\n\n    <figure class=\"post__image post__image--wide\">\n      <a href=\"https://jonne-g.github.io/portfolio/material-browser/\">\n        <img decoding=\"async\" loading=\"lazy\" src=\"https://jonne-g.github.io/portfolio/media/posts/9/material_browser_banner.png\" sizes=\"100vw\" srcset=\"https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-2xl.png 1600w\"  height=\"150\" width=\"1440\" alt=\"\" />\n      </a>\n      \n    </figure>\n\n    <figure class=\"post__image post__image--wide\">\n      <a href=\"https://jonne-g.github.io/portfolio/houdini-pipeline/\">\n        <img decoding=\"async\" loading=\"lazy\" src=\"https://jonne-g.github.io/portfolio/media/posts/9/houdini_pipe_banner.png\" sizes=\"100vw\" srcset=\"https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-2xl.png 1600w\"  height=\"150\" width=\"1440\" alt=\"\" />\n      </a>\n      \n    </figure>\n\n  <p>\n    \n  </p>",
             "author": {
                 "name": "Jonne Geven"
             },
             "tags": [
             ],
             "date_published": "2022-04-20T17:03:04+03:00",
-            "date_modified": "2022-04-20T17:20:15+03:00"
+            "date_modified": "2022-04-20T17:25:47+03:00"
         },
         {
             "id": "https://jonne-g.github.io/portfolio/houdini-pipeline/",
@@ -77,46 +77,6 @@
             ],
             "date_published": "2022-04-12T21:06:42+03:00",
             "date_modified": "2022-04-20T17:09:18+03:00"
-        },
-        {
-            "id": "https://jonne-g.github.io/portfolio/about-me/",
-            "url": "https://jonne-g.github.io/portfolio/about-me/",
-            "title": "About Me",
-            "summary": "About Meme",
-            "content_html": "\n  <p>\n    About Meme\n  </p>",
-            "author": {
-                "name": "Jonne Geven"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-04-12T21:06:21+03:00",
-            "date_modified": "2022-04-12T21:06:21+03:00"
-        },
-        {
-            "id": "https://jonne-g.github.io/portfolio/procedural/",
-            "url": "https://jonne-g.github.io/portfolio/procedural/",
-            "title": "Procedural",
-            "content_html": "\n    <figure class=\"post__image post__image--wide\">\n      <a href=\"https://jonne-g.github.io/portfolio/roof-generator/\">\n        <img decoding=\"async\" loading=\"lazy\" src=\"https://jonne-g.github.io/portfolio/media/posts/3/roof_generator_banner.png\" sizes=\"100vw\" srcset=\"https://jonne-g.github.io/portfolio/media/posts/3/responsive/roof_generator_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/3/responsive/roof_generator_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/3/responsive/roof_generator_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/3/responsive/roof_generator_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/3/responsive/roof_generator_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/3/responsive/roof_generator_banner-2xl.png 1600w\"  height=\"150\" width=\"1440\" alt=\"Roof Generator Link\" />\n      </a>\n      \n    </figure>",
-            "author": {
-                "name": "Jonne Geven"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-04-12T21:04:19+03:00",
-            "date_modified": "2022-04-19T17:22:54+03:00"
-        },
-        {
-            "id": "https://jonne-g.github.io/portfolio/pipeline/",
-            "url": "https://jonne-g.github.io/portfolio/pipeline/",
-            "title": "Pipeline",
-            "content_html": "\n    <figure class=\"post__image post__image--wide\">\n      <a href=\"https://jonne-g.github.io/portfolio/material-browser/\">\n        <img decoding=\"async\" loading=\"lazy\" src=\"https://jonne-g.github.io/portfolio/media/posts/2/material_browser_banner.png\" sizes=\"100vw\" srcset=\"https://jonne-g.github.io/portfolio/media/posts/2/responsive/material_browser_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/material_browser_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/material_browser_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/material_browser_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/material_browser_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/material_browser_banner-2xl.png 1600w\"  height=\"150\" width=\"1440\" alt=\"Material Browser\" />\n      </a>\n      \n    </figure>\n\n    <figure class=\"post__image post__image--wide\">\n      <a href=\"https://jonne-g.github.io/portfolio/houdini-pipeline/\">\n        <img decoding=\"async\" loading=\"lazy\" src=\"https://jonne-g.github.io/portfolio/media/posts/2/houdini_pipe_banner.png\" sizes=\"100vw\" srcset=\"https://jonne-g.github.io/portfolio/media/posts/2/responsive/houdini_pipe_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/houdini_pipe_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/houdini_pipe_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/houdini_pipe_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/houdini_pipe_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/houdini_pipe_banner-2xl.png 1600w\"  height=\"150\" width=\"1440\" alt=\"Houdini Pipeline\" />\n      </a>\n      \n    </figure>\n\n  <p>\n    \n  </p>",
-            "author": {
-                "name": "Jonne Geven"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-04-12T20:47:38+03:00",
-            "date_modified": "2022-04-15T22:14:50+03:00"
         }
     ]
 }

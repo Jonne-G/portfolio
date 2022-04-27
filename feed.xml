@@ -3,7 +3,7 @@
     <title>Jonne Geven</title>
     <link href="https://jonne-g.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://jonne-g.github.io/portfolio" />
-    <updated>2022-04-20T17:20:15+03:00</updated>
+    <updated>2022-04-20T17:25:47+03:00</updated>
     <author>
         <name>Jonne Geven</name>
     </author>
@@ -17,26 +17,26 @@
         <link href="https://jonne-g.github.io/portfolio/portfolio/"/>
         <id>https://jonne-g.github.io/portfolio/portfolio/</id>
 
-        <updated>2022-04-20T17:20:15+03:00</updated>
+        <updated>2022-04-20T17:25:47+03:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                 
-    <figure class="post__image post__image--center">
+    <figure class="post__image post__image--wide">
       <a href="https://jonne-g.github.io/portfolio/roof-generator/">
         <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/9/roof_generator_banner.png" sizes="100vw" srcset="https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-2xl.png 1600w"  height="150" width="1440" alt="" />
       </a>
       
     </figure>
 
-    <figure class="post__image post__image--center">
+    <figure class="post__image post__image--wide">
       <a href="https://jonne-g.github.io/portfolio/material-browser/">
         <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/9/material_browser_banner.png" sizes="100vw" srcset="https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-2xl.png 1600w"  height="150" width="1440" alt="" />
       </a>
       
     </figure>
 
-    <figure class="post__image post__image--center">
+    <figure class="post__image post__image--wide">
       <a href="https://jonne-g.github.io/portfolio/houdini-pipeline/">
         <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/9/houdini_pipe_banner.png" sizes="100vw" srcset="https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-2xl.png 1600w"  height="150" width="1440" alt="" />
       </a>
@@ -225,84 +225,6 @@
   <p>
     <b>Email:</b>&nbsp;jonnegeven@outlook.com
   </p>
-
-  <p>
-    
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>About Me</title>
-        <author>
-            <name>Jonne Geven</name>
-        </author>
-        <link href="https://jonne-g.github.io/portfolio/about-me/"/>
-        <id>https://jonne-g.github.io/portfolio/about-me/</id>
-
-        <updated>2022-04-12T21:06:21+03:00</updated>
-            <summary>
-                <![CDATA[
-                    About Meme
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    About Meme
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Procedural</title>
-        <author>
-            <name>Jonne Geven</name>
-        </author>
-        <link href="https://jonne-g.github.io/portfolio/procedural/"/>
-        <id>https://jonne-g.github.io/portfolio/procedural/</id>
-
-        <updated>2022-04-19T17:22:54+03:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                
-    <figure class="post__image post__image--wide">
-      <a href="https://jonne-g.github.io/portfolio/roof-generator/">
-        <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/3/roof_generator_banner.png" sizes="100vw" srcset="https://jonne-g.github.io/portfolio/media/posts/3/responsive/roof_generator_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/3/responsive/roof_generator_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/3/responsive/roof_generator_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/3/responsive/roof_generator_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/3/responsive/roof_generator_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/3/responsive/roof_generator_banner-2xl.png 1600w"  height="150" width="1440" alt="Roof Generator Link" />
-      </a>
-      
-    </figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Pipeline</title>
-        <author>
-            <name>Jonne Geven</name>
-        </author>
-        <link href="https://jonne-g.github.io/portfolio/pipeline/"/>
-        <id>https://jonne-g.github.io/portfolio/pipeline/</id>
-
-        <updated>2022-04-15T22:14:50+03:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                
-    <figure class="post__image post__image--wide">
-      <a href="https://jonne-g.github.io/portfolio/material-browser/">
-        <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/2/material_browser_banner.png" sizes="100vw" srcset="https://jonne-g.github.io/portfolio/media/posts/2/responsive/material_browser_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/material_browser_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/material_browser_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/material_browser_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/material_browser_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/material_browser_banner-2xl.png 1600w"  height="150" width="1440" alt="Material Browser" />
-      </a>
-      
-    </figure>
-
-    <figure class="post__image post__image--wide">
-      <a href="https://jonne-g.github.io/portfolio/houdini-pipeline/">
-        <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/2/houdini_pipe_banner.png" sizes="100vw" srcset="https://jonne-g.github.io/portfolio/media/posts/2/responsive/houdini_pipe_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/houdini_pipe_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/houdini_pipe_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/houdini_pipe_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/houdini_pipe_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/2/responsive/houdini_pipe_banner-2xl.png 1600w"  height="150" width="1440" alt="Houdini Pipeline" />
-      </a>
-      
-    </figure>
 
   <p>
     

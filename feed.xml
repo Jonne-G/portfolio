@@ -3,7 +3,7 @@
     <title>Jonne Geven</title>
     <link href="https://jonne-g.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://jonne-g.github.io/portfolio" />
-    <updated>2022-04-29T21:01:50+03:00</updated>
+    <updated>2022-04-29T22:39:50+03:00</updated>
     <author>
         <name>Jonne Geven</name>
     </author>
@@ -112,7 +112,7 @@
         <link href="https://jonne-g.github.io/portfolio/roof-generator/"/>
         <id>https://jonne-g.github.io/portfolio/roof-generator/</id>
 
-        <updated>2022-04-29T21:01:50+03:00</updated>
+        <updated>2022-04-29T22:39:50+03:00</updated>
             <summary>
                 <![CDATA[
                     Near the end of development on CrossfireX: Operation Spectre, it became clear it wouldn't be possible for the modelling department to populate the entire level with roofs. There was simply too much to do. The brief was simple: Create a tool that can quickly make&hellip;
@@ -196,6 +196,100 @@
   <p>
     Of course it's not able to do all of this work alone, and on the Maya side it is paired with a python module that neatly wraps away the launching process mentioned above.<br>Because of this, anyone looking to launch a HDA in Maya, only needs a single function:<br>placeHda() or placeHdaWithSelection().<br>
   </p>
+
+    <h2 id="stress-test">
+      Stress test
+    </h2>
+
+  <p>
+    Of course one of the fun parts of having a procedural system is stress testing!<br>Below is a looped animation of the roof-generator tackling a blend-shaped input.<br>As far as stability goes, I think it does pretty well!
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/7/roof_generator-stress_test-loopable.webp" sizes="100vw" srcset="https://jonne-g.github.io/portfolio/media/posts/7/responsive/roof_generator-stress_test-loopable-xs.webp 300w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/roof_generator-stress_test-loopable-sm.webp 480w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/roof_generator-stress_test-loopable-md.webp 768w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/roof_generator-stress_test-loopable-lg.webp 1024w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/roof_generator-stress_test-loopable-xl.webp 1360w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/roof_generator-stress_test-loopable-2xl.webp 1600w"  height="450" width="800" alt="Stress-test loop" />
+      
+    </figure>
+
+    <h2 id="looking-back-and-future-plans">
+      Looking back and future plans
+    </h2>
+
+  <p>
+    Making this tool was one hell of a ride. It was almost a perfect 50/50 split of making the tool, and making it work inside Maya. Using the tool again whilst recording the above videos made me realize it that was worth it.<br>Seeing all the buildings have roofs was quite the sight! <br>And in the end, it did its job: It helped ship the level and allowed the artists to spend more time on the fun stuff!
+  </p>
+
+  <p>
+    As for plans for the future, I purposefully set up the tool in a very modular way.<br>When the opportunity/need arises, I would love to go back and add support for more roof types!<br>
+  </p>
+
+    <h2 id="some-more-shots">
+      Some more shots
+    </h2>
+
+  <p>
+    A few more captures of results in-game
+  </p>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://jonne-g.github.io/portfolio/media/posts/7/gallery/image_01.png" data-size="2560x1440">
+        <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/7/gallery/image_01-thumbnail.png" height="405" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://jonne-g.github.io/portfolio/media/posts/7/gallery/image_02.png" data-size="2560x1440">
+        <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/7/gallery/image_02-thumbnail.png" height="405" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://jonne-g.github.io/portfolio/media/posts/7/gallery/image_03.png" data-size="2560x1440">
+        <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/7/gallery/image_03-thumbnail.png" height="405" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://jonne-g.github.io/portfolio/media/posts/7/gallery/image_04.png" data-size="2560x1440">
+        <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/7/gallery/image_04-thumbnail.png" height="405" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://jonne-g.github.io/portfolio/media/posts/7/gallery/image_05.png" data-size="2560x1440">
+        <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/7/gallery/image_05-thumbnail.png" height="405" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://jonne-g.github.io/portfolio/media/posts/7/gallery/image_06.png" data-size="2560x1440">
+        <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/7/gallery/image_06-thumbnail.png" height="405" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://jonne-g.github.io/portfolio/media/posts/7/gallery/image_07.png" data-size="2560x1440">
+        <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/7/gallery/image_07-thumbnail.png" height="405" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://jonne-g.github.io/portfolio/media/posts/7/gallery/image_08.png" data-size="2560x1440">
+        <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/7/gallery/image_08-thumbnail.png" height="405" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://jonne-g.github.io/portfolio/media/posts/7/gallery/image_09.png" data-size="2560x1440">
+        <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/7/gallery/image_09-thumbnail.png" height="405" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://jonne-g.github.io/portfolio/media/posts/7/gallery/image_10.png" data-size="2560x1440">
+        <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/7/gallery/image_10-thumbnail.png" height="405" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://jonne-g.github.io/portfolio/media/posts/7/gallery/image_11.png" data-size="2560x1440">
+        <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/7/gallery/image_11-thumbnail.png" height="405" width="720" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
             ]]>
         </content>
     </entry>
@@ -207,7 +301,7 @@
         <link href="https://jonne-g.github.io/portfolio/material-browser/"/>
         <id>https://jonne-g.github.io/portfolio/material-browser/</id>
 
-        <updated>2022-04-29T21:00:34+03:00</updated>
+        <updated>2022-04-29T22:37:48+03:00</updated>
             <summary>
                 <![CDATA[
                     &nbsp;The material-browser is an interface between the material-database on disk, and the user’s scene. Its main adoption has been in maya, but it is made to be easily adapted to other applications supporting Qt (described in the code-overview below). Before the interface, the users had&hellip;
@@ -226,7 +320,40 @@
   </p>
 
   <p>
-    Making this interface was my first introduction to Qt and UI programming, and over the various iterations the browser went through, I learned a lot about the various quirks and features of Qt, and how to maintain large python applications.&nbsp;<br>
+    Making this interface was my first introduction to Qt and UI programming, and over the various iterations the browser went through, I learned a lot about the various quirks and features of Qt, and how to maintain large python applications.&nbsp;
+  </p>
+
+    <h2 id="architecture">
+      Architecture
+    </h2>
+
+  <p>
+    The material browser was my first venture into really using programming patterns.<br>In some of the early briefs, the material browser was not just intended to be used in Maya, but also in other DCCs. To achieve this, it needed a very strict separation of interaction logic and UI.
+  </p>
+
+  <p>
+    A few iterations, the diagram below is what I settled on. Though it's most likely not the most optimal, it worked quite well for the browser in its current state.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/6/material_browser_architecture.png" sizes="100vw" srcset="https://jonne-g.github.io/portfolio/media/posts/6/responsive/material_browser_architecture-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/6/responsive/material_browser_architecture-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/6/responsive/material_browser_architecture-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/6/responsive/material_browser_architecture-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/6/responsive/material_browser_architecture-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/6/responsive/material_browser_architecture-2xl.png 1600w"  height="1343" width="1001" alt="" />
+      
+    </figure>
+
+  <p>
+    In the diagram above you can see how the material browser is built.<br>Of these building blocks, the ui, controller and model are all completely clean of DCC or on-disk/database interaction code.&nbsp;<br>
+  </p>
+
+    <h2 id="looking-back-and-future-plans">
+      Looking back and future plans
+    </h2>
+
+  <p>
+    This tool is quite dear to me, it was among the first tasks I was assigned, and throughout the various iterations I made, it was essentially a benchmark for my coding skills. In its current version (v3) I'm quite happy with how it turned out.<br>
+  </p>
+
+  <p>
+    The future development of this tool is an interesting one.<br>Initially, it was designed to be used as an asset-browser not just containing materials.<br>Additionally, the tool was set to be used in various DCCs, not just Maya.<br>Because of this, all underlying code was strictly written in "pure python" without any DCC-side code. All DCC logic was delegated to interaction modules as mentioned above. When I get back to this tool I'd love to realize this cross-DCC compatibility as I think it would be an interesting challenge.<br>
   </p>
             ]]>
         </content>

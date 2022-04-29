@@ -3,7 +3,7 @@
     <title>Jonne Geven</title>
     <link href="https://jonne-g.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://jonne-g.github.io/portfolio" />
-    <updated>2022-04-20T17:25:47+03:00</updated>
+    <updated>2022-04-29T21:01:50+03:00</updated>
     <author>
         <name>Jonne Geven</name>
     </author>
@@ -112,36 +112,15 @@
         <link href="https://jonne-g.github.io/portfolio/roof-generator/"/>
         <id>https://jonne-g.github.io/portfolio/roof-generator/</id>
 
-        <updated>2022-04-20T16:43:12+03:00</updated>
+        <updated>2022-04-29T21:01:50+03:00</updated>
             <summary>
                 <![CDATA[
-                    
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/7/Resolve_UnKCqIgePf.png" sizes="100vw" srcset="https://jonne-g.github.io/portfolio/media/posts/7/responsive/Resolve_UnKCqIgePf-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/Resolve_UnKCqIgePf-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/Resolve_UnKCqIgePf-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/Resolve_UnKCqIgePf-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/Resolve_UnKCqIgePf-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/Resolve_UnKCqIgePf-2xl.png 1600w"  height="764" width="1358" alt="" />
-      
-    </figure>
-
-  <p>
-    Near the end of development on CrossfireX: Operation Spectre, it became clear it wouldn't be possible for the modelling department to populate the entire level with roofs. There was simply too much to do.
-  </p>
-
-  <p>
-    The brief was simple: Create a tool that can quickly make roof&nbsp; geometry and make it work inside Maya using Houdini Engine.<br>Since the roofs were only visible from afar or from below, it was possible to use relatively simple geometry and focus on making the system quick, and easy to use.<br>
-  </p>
-
-  <p>
-    Though making the tool work properly with Houdini engine in Maya was a real challenge, the final result helped speed up work on the level freeing up time for the artists to work on other parts of the project.<br>
-  </p>
-
+                    Near the end of development on CrossfireX: Operation Spectre, it became clear it wouldn't be possible for the modelling department to populate the entire level with roofs. There was simply too much to do. The brief was simple: Create a tool that can quickly make&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                
-    <figure class="post__image post__image--center">
-      <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/7/Resolve_UnKCqIgePf.png" sizes="100vw" srcset="https://jonne-g.github.io/portfolio/media/posts/7/responsive/Resolve_UnKCqIgePf-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/Resolve_UnKCqIgePf-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/Resolve_UnKCqIgePf-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/Resolve_UnKCqIgePf-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/Resolve_UnKCqIgePf-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/Resolve_UnKCqIgePf-2xl.png 1600w"  height="764" width="1358" alt="" />
-      
-    </figure>
+                <div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/_Dx9DBkYdtQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>
 
   <p>
     Near the end of development on CrossfireX: Operation Spectre, it became clear it wouldn't be possible for the modelling department to populate the entire level with roofs. There was simply too much to do.
@@ -155,13 +134,67 @@
     Though making the tool work properly with Houdini engine in Maya was a real challenge, the final result helped speed up work on the level freeing up time for the artists to work on other parts of the project.<br>
   </p>
 
-
-    <h2 id="further-elaboration">
-      Further elaboration
+    <h2 id="using-the-tool-in-maya">
+      Using the tool in Maya
     </h2>
 
   <p>
-    This section contains further explanation of the roof-gen.<br>It's separate to keep the general description as short as possible.<br>
+    To make the process of creating roofs as fast as possible, the process was made into a borderline one-click process.<br>Below you can see a demonstration of the three modes the tool operates on in Maya:
+  </p>
+
+    <h4 id="object-mode">
+      Object mode
+    </h4>
+
+    <figure class="post__image post__image--center">
+      <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/7/roof_generator-making_off-object_selection.gif" height="450" width="800" alt="object selection inside Maya" />
+      
+    </figure>
+
+    <h4 id="face-mode">
+      Face mode
+    </h4>
+
+    <figure class="post__image post__image--center">
+      <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/7/roof_generator-making_off-face_selection-2.gif" height="450" width="800" alt="face selection in maya" />
+      
+    </figure>
+
+    <h4 id="edge-mode">
+      Edge mode
+    </h4>
+
+    <figure class="post__image post__image--center">
+      <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/7/roof_generator-making_off-edge_selection.gif" height="450" width="800" alt="edge selection in Maya" />
+      
+    </figure>
+
+  <p>
+    One interesting note on the edge-mode is the additions of gables.<br>This was one of the requirements: an easy way of adding gables to the roofs.<br>In Houdini, the tool used groups for this, and to translate this to Maya, I used edge selection instead.
+  </p>
+
+  <p>
+    This "one-click" process is in part enabled by a maya shelf tool.<br>Once the user clicks this button a few things happen:
+  </p>
+
+  <ol>
+    <li>In case of face- or edge-selection, the actual selection is stored<br>&nbsp;and the whole object is selected instead</li><li>If not already loaded, Houdini engine is enabled</li><li>The roof-generator Maya-version is placed in the scene<br>with the object selection as its target</li><li>In case of face- or edge-selection, an additional two parameters are populated:<br>An "id" parameter passing through the type of the selection (face or edge),<br>and the selection in a way Houdini can read it</li><li>Finally, the roof-generator HDA is triggered again using a deferred-loading call.<br>This call is deferred as sometimes the HDA is placed before Houdini engine is<br>actually loaded.</li>
+  </ol>
+
+  <p>
+    Once this whole process is finished, the user will have a roof ready to export to game!
+  </p>
+
+    <h2 id="mayahda-wrapper">
+      Maya-HDA wrapper
+    </h2>
+
+  <p>
+    In the placement process above I mentioned a Maya-version of the HDA.<br>This is referring to a HDA wrapper made to have Maya usage of Houdini much easier.<br>The wrapper contains a section that allows for specifying different behaviour for each type of component selection in Maya as well as the parameters to accompany it.
+  </p>
+
+  <p>
+    Of course it's not able to do all of this work alone, and on the Maya side it is paired with a python module that neatly wraps away the launching process mentioned above.<br>Because of this, anyone looking to launch a HDA in Maya, only needs a single function:<br>placeHda() or placeHdaWithSelection().<br>
   </p>
             ]]>
         </content>
@@ -174,18 +207,15 @@
         <link href="https://jonne-g.github.io/portfolio/material-browser/"/>
         <id>https://jonne-g.github.io/portfolio/material-browser/</id>
 
-        <updated>2022-04-13T21:10:56+03:00</updated>
+        <updated>2022-04-29T21:00:34+03:00</updated>
             <summary>
                 <![CDATA[
-                    &lt; INSERT VIDEO HERE &gt; &nbsp;The material-browser is an interface between the material-database on disk, and the user’s scene. Its main adoption has been in maya, but it is made to be easily adapted to other applications supporting Qt (described in the code-overview below). Before&hellip;
+                    &nbsp;The material-browser is an interface between the material-database on disk, and the user’s scene. Its main adoption has been in maya, but it is made to be easily adapted to other applications supporting Qt (described in the code-overview below). Before the interface, the users had&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                
-    <h2 id="lt-insert-video-here-gt">
-      &lt; INSERT VIDEO HERE &gt;
-    </h2>
+                <div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/nBhl2L7rIwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>
 
   <p>
     &nbsp;The material-browser is an interface between the material-database on disk, and the user’s  scene. Its main adoption has been in maya, but it is made to be easily adapted to other applications supporting Qt (described in the code-overview below).

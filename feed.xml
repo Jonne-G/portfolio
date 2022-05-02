@@ -3,42 +3,42 @@
     <title>Jonne Geven</title>
     <link href="https://jonne-g.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://jonne-g.github.io/portfolio" />
-    <updated>2022-04-29T22:39:50+03:00</updated>
+    <updated>2022-05-02T21:02:22+03:00</updated>
     <author>
         <name>Jonne Geven</name>
     </author>
     <id>https://jonne-g.github.io/portfolio</id>
 
     <entry>
-        <title>Portfolio</title>
+        <title>Home</title>
         <author>
             <name>Jonne Geven</name>
         </author>
         <link href="https://jonne-g.github.io/portfolio/portfolio/"/>
         <id>https://jonne-g.github.io/portfolio/portfolio/</id>
 
-        <updated>2022-04-20T17:25:47+03:00</updated>
+        <updated>2022-05-02T17:53:48+03:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                 
-    <figure class="post__image post__image--wide">
+    <figure class="zoom-box post__image post__image--wide">
       <a href="https://jonne-g.github.io/portfolio/roof-generator/">
         <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/9/roof_generator_banner.png" sizes="100vw" srcset="https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/roof_generator_banner-2xl.png 1600w"  height="150" width="1440" alt="" />
       </a>
       
     </figure>
 
-    <figure class="post__image post__image--wide">
-      <a href="https://jonne-g.github.io/portfolio/material-browser/">
-        <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/9/material_browser_banner.png" sizes="100vw" srcset="https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-2xl.png 1600w"  height="150" width="1440" alt="" />
+    <figure class="zoom-box post__image post__image--wide">
+      <a href="https://jonne-g.github.io/portfolio/houdini-pipeline/">
+        <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/9/houdini_pipe_banner.png" sizes="100vw" srcset="https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-2xl.png 1600w"  height="150" width="1440" alt="" />
       </a>
       
     </figure>
 
-    <figure class="post__image post__image--wide">
-      <a href="https://jonne-g.github.io/portfolio/houdini-pipeline/">
-        <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/9/houdini_pipe_banner.png" sizes="100vw" srcset="https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/houdini_pipe_banner-2xl.png 1600w"  height="150" width="1440" alt="" />
+    <figure class="zoom-box post__image post__image--wide">
+      <a href="https://jonne-g.github.io/portfolio/material-browser/">
+        <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/9/material_browser_banner.png" sizes="100vw" srcset="https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/9/responsive/material_browser_banner-2xl.png 1600w"  height="150" width="1440" alt="" />
       </a>
       
     </figure>
@@ -57,49 +57,46 @@
         <link href="https://jonne-g.github.io/portfolio/houdini-pipeline/"/>
         <id>https://jonne-g.github.io/portfolio/houdini-pipeline/</id>
 
-        <updated>2022-04-15T21:41:03+03:00</updated>
+        <updated>2022-05-02T21:02:22+03:00</updated>
             <summary>
                 <![CDATA[
-                    &lt; SOME DEMONSTRATION OF THE HOUDINI PIPE &gt; Build almost from scratch, the Remedy Houdini-environment is the main way of interacting with Houdini at Remedy. As its sole developer, my task was to create an environment that would allow for management of HDAs (Houdini Digital&hellip;
+                    Build almost from scratch, the Remedy Houdini-environment is the main way of interacting with Houdini at Remedy. For most of its development I was the sole developer responsible for building and maintaining an environment that would allow for easy access to Houdini; management of HDAs&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
-    <h2 id="lt-some-demonstration-of-the-houdini-pipe-gt">
-      &lt; SOME DEMONSTRATION OF THE HOUDINI PIPE &gt;
-    </h2>
+    <figure class="post__image post__image--wide">
+      <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/8/houdini_launch_process.gif" height="431" width="1200" alt="Houdini launch process" />
+      
+    </figure>
 
   <p>
-    Build almost from scratch, the Remedy Houdini-environment is the main way of interacting with Houdini at Remedy.<br>As its sole developer, my task was to create an environment that would allow for management of HDAs (Houdini Digital Assets) on multiple projects, as well as making said HDAs easy to create and update.
+    Build almost from scratch, the Remedy Houdini-environment is the main way of interacting with Houdini at Remedy.<br>For most of its development I was the sole developer responsible for building and maintaining an environment that would allow for easy access to Houdini; management of HDAs (Houdini Digital Assets) on multiple projects; as well as making said HDAs easy to create and update.<br>Over the various iterations the "backend" went through, <br>the current version has three main components:<br>
   </p>
 
-  <p>
-    Over the various iterations the "backend" went through, the current version has three main components:
-  </p>
-
-    <h6 id="1-launching-houdini">
-      1. Launching Houdini
+    <h6 id="1-houdini-launch-process">
+      1. Houdini launch process
     </h6>
 
   <p>
-    When the user clicks one of the shortcuts (Houdini core, FX, and Apprentice) a setup script is triggered with a project specific configuration file.<br>Said configuration file holds information about what python-modules to load; which version of Houdini to use; miscellaneous environment variables; and which HDAs to import. This startup script essentially sets up the environment.
+    When the user clicks one of the shortcuts (Houdini core, FX, and Apprentice) the sequence shown above is triggered creating a scene where the user can use Houdini without worrying about the details.
   </p>
 
-    <h6 id="2-importing-hdas">
-      2. Importing HDAs
+    <h6 id="2-io-tooling">
+      2. i/o tooling
     </h6>
 
   <p>
-    The project HDAs are imported using a custom importation process.<br>A project can also define which HDAs are hidden or locked.<br>Here "locking" a HDA refers to limiting the version of an asset during loading.<br>This is feature is intended to be used on projects locking their codebase during the final shipping phase of the project. It is also the reason the Houdini-native package system wasn't used, it didn't support locking HDAs on a specific version.
+    Getting files into and out of a DCC is one of the most important parts of a pipeline.<br>As such, the pipeline features a collection of nodes to roundtrip not just geometry files (namely FBX), but also proprietary metadata used in the Northlight engine.
   </p>
 
-    <h6 id="3-hda-management">
-      3. HDA Management
+    <h6 id="3-remedy-shelf">
+      3. Remedy Shelf
     </h6>
 
   <p>
-    The final component of the Remedy Houdini-environment isn't specifically a launch-specific process, rather its a set of tools for managing HDAs.<br>Its main purpose is to reduce/remove human error and give the users more time to do their work.<br>To achieve this, the management system automates HDA creation, versioning, and various perforce commands (shelve, submit, and in special cases, checkout).<br>The ease-of-use features are described in further detail below.
+    To give users easy access to all important operation, the decision was made to put them in plain sight. As such, all the important items like: creating, updating, or submitting a HDA are all in a single place alongside a collection of other common utility functions
   </p>
             ]]>
         </content>
@@ -112,7 +109,7 @@
         <link href="https://jonne-g.github.io/portfolio/roof-generator/"/>
         <id>https://jonne-g.github.io/portfolio/roof-generator/</id>
 
-        <updated>2022-04-29T22:39:50+03:00</updated>
+        <updated>2022-05-02T19:53:51+03:00</updated>
             <summary>
                 <![CDATA[
                     Near the end of development on CrossfireX: Operation Spectre, it became clear it wouldn't be possible for the modelling department to populate the entire level with roofs. There was simply too much to do. The brief was simple: Create a tool that can quickly make&hellip;
@@ -120,7 +117,8 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/_Dx9DBkYdtQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>
+                <div class="video-container"><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/_Dx9DBkYdtQ?playlist=_Dx9DBkYdtQ&loop=1&autoplay=1" title="YouTube video player" frameborder="0" allowfullscreen></iframe></div>
+</div>
 
   <p>
     Near the end of development on CrossfireX: Operation Spectre, it became clear it wouldn't be possible for the modelling department to populate the entire level with roofs. There was simply too much to do.
@@ -204,11 +202,7 @@
   <p>
     Of course one of the fun parts of having a procedural system is stress testing!<br>Below is a looped animation of the roof-generator tackling a blend-shaped input.<br>As far as stability goes, I think it does pretty well!
   </p>
-
-    <figure class="post__image post__image--center">
-      <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/7/roof_generator-stress_test-loopable.webp" sizes="100vw" srcset="https://jonne-g.github.io/portfolio/media/posts/7/responsive/roof_generator-stress_test-loopable-xs.webp 300w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/roof_generator-stress_test-loopable-sm.webp 480w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/roof_generator-stress_test-loopable-md.webp 768w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/roof_generator-stress_test-loopable-lg.webp 1024w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/roof_generator-stress_test-loopable-xl.webp 1360w ,https://jonne-g.github.io/portfolio/media/posts/7/responsive/roof_generator-stress_test-loopable-2xl.webp 1600w"  height="450" width="800" alt="Stress-test loop" />
-      
-    </figure>
+<div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/ZDL20TkukJA?playlist=ZDL20TkukJA&loop=1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; loop" allowfullscreen></iframe></div></div>
 
     <h2 id="looking-back-and-future-plans">
       Looking back and future plans
@@ -301,7 +295,7 @@
         <link href="https://jonne-g.github.io/portfolio/material-browser/"/>
         <id>https://jonne-g.github.io/portfolio/material-browser/</id>
 
-        <updated>2022-04-29T22:37:48+03:00</updated>
+        <updated>2022-05-02T18:09:37+03:00</updated>
             <summary>
                 <![CDATA[
                     &nbsp;The material-browser is an interface between the material-database on disk, and the user’s scene. Its main adoption has been in maya, but it is made to be easily adapted to other applications supporting Qt (described in the code-overview below). Before the interface, the users had&hellip;
@@ -336,7 +330,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/6/material_browser_architecture.png" sizes="100vw" srcset="https://jonne-g.github.io/portfolio/media/posts/6/responsive/material_browser_architecture-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/6/responsive/material_browser_architecture-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/6/responsive/material_browser_architecture-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/6/responsive/material_browser_architecture-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/6/responsive/material_browser_architecture-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/6/responsive/material_browser_architecture-2xl.png 1600w"  height="1343" width="1001" alt="" />
+      <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/6/material_browser_architecture-2.png" sizes="100vw" srcset="https://jonne-g.github.io/portfolio/media/posts/6/responsive/material_browser_architecture-2-xs.png 300w ,https://jonne-g.github.io/portfolio/media/posts/6/responsive/material_browser_architecture-2-sm.png 480w ,https://jonne-g.github.io/portfolio/media/posts/6/responsive/material_browser_architecture-2-md.png 768w ,https://jonne-g.github.io/portfolio/media/posts/6/responsive/material_browser_architecture-2-lg.png 1024w ,https://jonne-g.github.io/portfolio/media/posts/6/responsive/material_browser_architecture-2-xl.png 1360w ,https://jonne-g.github.io/portfolio/media/posts/6/responsive/material_browser_architecture-2-2xl.png 1600w"  height="1343" width="1001" alt="" />
       
     </figure>
 

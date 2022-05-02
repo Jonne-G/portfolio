@@ -3,7 +3,7 @@
     <title>Jonne Geven</title>
     <link href="https://jonne-g.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://jonne-g.github.io/portfolio" />
-    <updated>2022-05-02T21:02:22+03:00</updated>
+    <updated>2022-05-02T21:49:11+03:00</updated>
     <author>
         <name>Jonne Geven</name>
     </author>
@@ -57,7 +57,7 @@
         <link href="https://jonne-g.github.io/portfolio/houdini-pipeline/"/>
         <id>https://jonne-g.github.io/portfolio/houdini-pipeline/</id>
 
-        <updated>2022-05-02T21:02:22+03:00</updated>
+        <updated>2022-05-02T21:49:11+03:00</updated>
             <summary>
                 <![CDATA[
                     Build almost from scratch, the Remedy Houdini-environment is the main way of interacting with Houdini at Remedy. For most of its development I was the sole developer responsible for building and maintaining an environment that would allow for easy access to Houdini; management of HDAs&hellip;
@@ -67,7 +67,7 @@
             <![CDATA[
                 
     <figure class="post__image post__image--wide">
-      <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/8/houdini_launch_process.gif" height="431" width="1200" alt="Houdini launch process" />
+      <img decoding="async" loading="lazy" src="https://jonne-g.github.io/portfolio/media/posts/8/houdini_launch_process_4.gif" height="296" width="1200" alt="Houdini launch process" />
       
     </figure>
 
@@ -109,7 +109,7 @@
         <link href="https://jonne-g.github.io/portfolio/roof-generator/"/>
         <id>https://jonne-g.github.io/portfolio/roof-generator/</id>
 
-        <updated>2022-05-02T19:53:51+03:00</updated>
+        <updated>2022-05-02T21:34:26+03:00</updated>
             <summary>
                 <![CDATA[
                     Near the end of development on CrossfireX: Operation Spectre, it became clear it wouldn't be possible for the modelling department to populate the entire level with roofs. There was simply too much to do. The brief was simple: Create a tool that can quickly make&hellip;
@@ -117,7 +117,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <div class="video-container"><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/_Dx9DBkYdtQ?playlist=_Dx9DBkYdtQ&loop=1&autoplay=1" title="YouTube video player" frameborder="0" allowfullscreen></iframe></div>
+                <div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/_Dx9DBkYdtQ?playlist=_Dx9DBkYdtQ&loop=1&autoplay=1" title="YouTube video player" frameborder="0" allowfullscreen></iframe></div>
 </div>
 
   <p>
